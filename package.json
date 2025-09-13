@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AZOTE789/Aseguramiento/issues"
   },
-  "homepage": "https://github.com/AZOTE789/Aseguramiento#readme"
+  "homepage": "https://github.com/AZOTE789/Aseguramiento#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
 }
